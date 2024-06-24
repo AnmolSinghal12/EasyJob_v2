@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <string name="app_name">EasyJob</string>
+    <string name="gcm_defaultSenderId" translatable="false">269697867363</string>
+    <string name="google_api_key" translatable="false">AIzaSyCb-Ct8RPg3eX8XDt4bMoNkR28kLzhPQYM</string>
+    <string name="google_app_id" translatable="false">1:269697867363:android:7bb1f574345f9f7feb6256</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCb-Ct8RPg3eX8XDt4bMoNkR28kLzhPQYM</string>
+    <string name="google_storage_bucket" translatable="false">easy-job-5eb5b.appspot.com</string>
+    <string name="project_id" translatable="false">easy-job-5eb5b</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>
